@@ -1,4 +1,4 @@
-##Play Dino Game Using Hand Gestures
+# *Play Dino Game Using Hand Gestures*
 
 This project implements the classic Google Chrome Dino Game, controlled through hand gestures. 
 
